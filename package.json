@@ -1,0 +1,24 @@
+{
+  "name": "servio-proxy",
+  "version": "1.0.0",
+  "description": "proxy server for Yelp-like components",
+  "main": "",
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrsf127Foragers/servio-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrsf127Foragers/servio-proxy/issues"
+  },
+  "homepage": "https://github.com/hrsf127Foragers/servio-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
